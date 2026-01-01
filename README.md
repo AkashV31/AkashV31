@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi there!
 
-<!--
-**AkashV31/AkashV31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI & Data Science student with a strong interest in coding, software development, and modern technologies. I enjoy building things, learning how systems work, and improving my skills by working on real-world problems.
 
-Here are some ideas to get you started:
+🚀 What I’m About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Strong foundational knowledge in programming & problem-solving
+
+• Exploring Artificial Intelligence, Data Science, and Software Engineering
+
+• Interested in writing clean, efficient, and scalable code
+
+• Always learning and experimenting with new tools & technologies
+
+🛠️ Tech & Interests
+
+• Programming & Software Development
+
+• AI & Machine Learning (learning & experimenting)
+
+• Data & Analytics
+
+• Problem Solving & Logical Thinking
+
+🌱 Currently
+
+• Strengthening core CS fundamentals
+
+• Building projects and improving code quality
+
+• Exploring AI-driven applications
+
+🤝 Let’s Connect
+
+Open to collaborations, learning opportunities, and open-source
+
+Always happy to discuss tech, code, and ideas
